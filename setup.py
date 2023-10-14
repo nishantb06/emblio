@@ -16,7 +16,7 @@ def read(filename):
 setup(
     name="emblio",
     version="0.1.0",
-    url=".",
+    url="https://github.com/nishantb06/emblio",
     license='MIT',
 
     author="Nishant Bhansali",
