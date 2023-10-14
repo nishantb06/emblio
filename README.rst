@@ -13,9 +13,12 @@ python package that gets embeddings from various ML models for  different conten
 
 Usage
 -----
+pip install emblio==0.1.0
+
 
 Installation
 ------------
+pip install emblio==0.1.0
 
 Requirements
 ^^^^^^^^^^^^
