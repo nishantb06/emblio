@@ -35,3 +35,7 @@ nosetests.xml
 .project
 .pydevproject
 .vscode
+
+# local testing 
+notebooks
+*.ipynb
