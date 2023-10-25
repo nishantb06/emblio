@@ -11,7 +11,7 @@ repos:
     hooks:
     - id: flake8
       args: [
-        --max-line-length=84
+        --max-line-length=150
       ]
       exclude: ^emblio/__init__\.py$
       types: ['python']
