@@ -13,5 +13,5 @@ repos:
       args: [
         --max-line-length=84
       ]
-      exclude: ^(venv/|docs/)
+      exclude: ^emblio/__init__\.py$
       types: ['python']
