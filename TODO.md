@@ -1,5 +1,6 @@
 # Important + URGENT
 [x] pre-commit hooks setup, black and flake8
+[ ] add requirements.txt
 
 
 # Not Important + URGENT
