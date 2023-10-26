@@ -11,4 +11,6 @@
 - Improve the setup.py file. Things like version number can be automated, [video link](https://www.youtube.com/watch?v=U-aIPTS580s)
 
 # Not Important + Not URGENT
+- see the proper character length of flake8. right now it is set to 150 so that commit can pass
+
 
