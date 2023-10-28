@@ -21,7 +21,7 @@ reqs = [str(ir.requirement) for ir in install_reqs]
 
 setup(
     name="emblio",
-    version="0.1.2",
+    version="0.1.4",
     url="https://github.com/nishantb06/emblio",
     license="MIT",
     author="Nishant Bhansali",
