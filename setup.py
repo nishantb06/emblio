@@ -15,7 +15,7 @@ def read(filename):
 
 
 # parse_requirements() returns generator of pip._internal.req.InstallRequirement objects
-install_reqs = parse_requirements("requirements.txt", session="hack")
+install_reqs = parse_requirements("./requirements.txt", session="hack")
 # reqs is a list of requirements
 reqs = [str(ir.requirement) for ir in install_reqs]
 
