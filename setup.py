@@ -29,7 +29,7 @@ setup(
     description="python package that gets embeddings from various ML models for  different content types, like image video audio text",
     long_description=read("README.rst"),
     packages=find_packages(exclude=("tests",)),
-    install_requires=reqs,
+    install_requires="['torch','whisper']",
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
         "License :: OSI Approved :: MIT License",
